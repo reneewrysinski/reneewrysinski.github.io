@@ -4,8 +4,9 @@
 title: Bay Jekyll Theme
 description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
-baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+domain: reneewrysinski.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://reneewrysinski.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+# baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
