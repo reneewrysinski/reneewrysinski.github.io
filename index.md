@@ -5,10 +5,6 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+  Hi! My name is Renee Wrysinski. I'm a junior at Rice University pursuing a Bachelor's of Science in Electrical and Computer Engineering with a specialization in Computer Engineering, as well as a minor in Engineering Design.
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+  Outside of academics, I'm a manager and meechanic at Rice's student-run bike shop, [Rice Bikes](https://www.ricebikes.com/).
