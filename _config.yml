@@ -18,10 +18,13 @@ header:
       dropdown:
         - name: Portfolio
         - name: Projects
+    - name: Projects
+      dropdown:
+        - name: Academic
+        - name: Personal
     - name: Blog
       dropdown:
         - name: Categories
-          slug: /categories/
 
 footer:
   show_powered_by: true
@@ -46,6 +49,23 @@ footer:
     #   link: https://dribbble.com/YourDribbbleUsername
     # - name: RSS
     #   link: /feed.xml
+
+collections:
+  projects:
+    output: true
+  academic:
+    output: true
+    permalink: /projects/academic/:title
+    parent: projects
+  academic-child-engi210:
+    output: true
+    permalink: /projects/academic/engi210/:title
+    parent: academic
+  personal:
+    output: true
+    permalink: /projects/personal/:title
+    parent: projects
+collections_dir: collections
 
 # Build settings
 markdown: kramdown
