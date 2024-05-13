@@ -15,7 +15,17 @@ header:
     - name: Home
       slug: /
     - name: Work
+      dropdown:
+        - name: Portfolio
+          slug: /portfolio/
+        - name: Projects
+          slug: /projects/
     - name: Blog
+      dropdown:
+        - name: Latest&nbsp;Posts
+          slug: /blog/
+        - name: Categories
+          slug: /categories/
 
 footer:
   show_powered_by: true
