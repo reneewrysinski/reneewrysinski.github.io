@@ -22,7 +22,12 @@
               <!-- <a href="#" class="dropdown-toggle">{{ page.name }}</a> -->
               <div class="dropdown-menu">
                 {% for subpage in page.dropdown %}
-                  <a class="subpage-link" href="{{ subpage.slug }}">{{ subpage.name }}</a><br>
+                {% if subpage.slug and subpage.slug != "" and subpage.slug != nil %}
+                  {% assign subpage_link = subpage.slug %}
+                {% else %}
+                  {% assign subpage_link = "/" | append: subpage.name | downcase %}
+                {% endif %}
+                  <a class="subpage-link" href="{{ subpage_link | prepend: page_link }}">{{ subpage.name }}</a><br>
                 {% endfor %}
               </div>
             </div>
