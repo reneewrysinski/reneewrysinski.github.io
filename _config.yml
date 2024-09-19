@@ -14,17 +14,10 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-      dropdown:
-        - name: Portfolio
-        - name: Projects
     - name: Projects
       dropdown:
         - name: Academic
         - name: Personal
-    - name: Blog
-      dropdown:
-        - name: Categories
 
 footer:
   show_powered_by: true
@@ -73,6 +66,9 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
+
+kramdown:
+  parse_block_html: true
 
 # Excluded items
 exclude:
