@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Resistor Quiz"
+title:  Resistor Quiz
 date:   2024-5-1 10:00:40
-description: "Resistor quiz summary."
+description: To help myself get better at recognizing resistors based on their color codes, I created a website that allows you to practice and quiz yourself on resistor idenification. You can view the site <a href="https://reneewrysinski.github.io/resistor-quiz/">here</a>!
 image: 
-    src: /assets/img/content/post-example/Banner.jpg
+    src: /assets/img/content/post-example/resistorcrop.jpg
     alt: banner
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/post-example/resistor.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 
