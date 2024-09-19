@@ -6,6 +6,7 @@ description: "Speaker repair summary."
 image: 
     src: /assets/img/content/post-example/Banner.jpg
     alt: banner
+order_number: 4
 ---
 
 <img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>

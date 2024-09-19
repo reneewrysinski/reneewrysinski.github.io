@@ -6,6 +6,7 @@ description: "Water leak sensing device summary."
 image: 
     src: /assets/img/content/post-example/Banner.jpg
     alt: banner
+order_number: 3
 ---
 
 <img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>

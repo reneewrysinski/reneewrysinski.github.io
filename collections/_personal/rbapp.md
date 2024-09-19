@@ -6,6 +6,7 @@ description: "Rice Bikes repair app summary."
 image: 
     src: /assets/img/content/post-example/Banner.jpg
     alt: banner
+order_number: 1
 ---
 
 <img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>

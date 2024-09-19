@@ -6,6 +6,7 @@ description: To help myself get better at recognizing resistors based on their c
 image: 
     src: /assets/img/content/post-example/resistorcrop.jpg
     alt: banner
+order_number: 3
 ---
 
 <img src="{{ "/assets/img/content/post-example/resistor.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
