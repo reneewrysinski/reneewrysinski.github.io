@@ -4,4 +4,4 @@ title: Personal Projects
 slug: /projects/personal/
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
+Here are some projects I've worked on outside of class to explore my interests and develop new skills!

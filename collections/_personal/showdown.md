@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Speaker Repair"
-date:   2024-2-11 10:00:40
-description: "When Rice Bikes' shop bluetooth speaker stopped working, I decided to troubleshoot the issue and attempt to fix it. After diagnosing the issue, a corroded power switch, I was able to solder in a replacement part and bring our beloved speaker back to life :)"
+title:  Circuit Showdown
+date:   2024-5-1 10:00:40
+description: "During the summer of 2024, I participated in Mouser Electronics' electrical engineering competition, Circuit Showdown. This series will be released on Mouser's YouTube in October 2024, and you can check out the trailer <a href='https://youtu.be/LzqyWOH7zTU?si=k8oKHzibGw0p7pA2' target='_blank'>here</a>!"
 image: 
-    src: /assets/img/content/thumbnails/speaker.jpg
+    src: /assets/img/content/thumbnails/showdown.jpg
     alt: banner
-order_number: 4
+order_number: 1
 ---
 
-<img src="{{ "/assets/img/content/thumbnails/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/thumbnails/resistor.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 

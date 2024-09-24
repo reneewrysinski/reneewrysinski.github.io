@@ -2,14 +2,14 @@
 layout: post
 title:  "Water Leak Sensing Device"
 date:   2022-12-1 10:00:40
-description: "Water leak sensing device summary."
+description: "In the fall of 2022, I worked on a project team to create a water leak sensing device for the Rice Office of Sustainability. Our final product utilized non-invasive analog sensors, an Arduino, and an ESP8266 to detect abnormal levels of water flow and send email notifications to alert staff to these conditions."
 image: 
-    src: /assets/img/content/post-example/Banner.jpg
+    src: /assets/img/content/thumbnails/wlsd.jpg
     alt: banner
 order_number: 3
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/thumbnails/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 

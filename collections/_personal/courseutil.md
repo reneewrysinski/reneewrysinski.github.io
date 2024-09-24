@@ -2,14 +2,14 @@
 layout: post
 title:  "Rice Course Utilities"
 date:   2024-5-1 10:00:40
-description: "Rice course utilities summary."
+description: "After the student developer/maintainer of a helpful Rice utilities tool graduated and stopped updating it, I decided to update and maintain the tool myself, making the necessary changes to the code to keep it functional despite changes to the course catalog. You can explore these tools <a href='https://reneewrysinski.github.io/course-utilities/' target='_blank'>here</a>!"
 image: 
-    src: /assets/img/content/post-example/Banner.jpg
+    src: /assets/img/content/thumbnails/courseutil.png
     alt: banner
-order_number: 2
+order_number: 5
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/thumbnails/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 

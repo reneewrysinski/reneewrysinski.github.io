@@ -2,14 +2,14 @@
 layout: post
 title:  "ENGI 210 Class Projects"
 date:   2023-5-1 10:00:40
-description: "ENGI 210 class projects summary."
+description: "In Spring 2023, I took ENGI 210: Prototyping and Fabrication. In this course, we learned to use many of the machines in the Oshman Engineering Design Kitchen, such as the 3D printers, laser cutter, water jet cutter, and CNC mill through a series of multi-week projects. You can view some of my completed projects <a href='https://engi210.blogs.rice.edu/author/rw63/' target='_blank'>here</a>."
 image: 
-    src: /assets/img/content/post-example/Banner.jpg
+    src: /assets/img/content/thumbnails/engi210.jpg
     alt: banner
 order_number: 2
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/thumbnails/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 

@@ -2,14 +2,14 @@
 layout: post
 title:  "Wireless Egg Data Logger"
 date:   2024-5-1 10:00:40
-description: "Wireless egg data logger summary."
+description: "Throughout the 2023-2024 academic year, I worked to create a wireless egg data logger for conservation of endangered birds for the Houston Zoo. For this project, I created a circuit utilizing a 9-DOF IMU, temperature & humidity sensor, and ESP32 MCU to transmit data to a Raspberry Pi dashboard, and also designed a custom PCB for this circuit. You can view our poster <a href='https://drive.google.com/file/d/1f4qNlXdCOZU8zM9hzjvwAzN0tPlKOdDy/view?usp=sharing' target='_blank'>here</a>!"
 image: 
-    src: /assets/img/content/post-example/Banner.jpg
+    src: /assets/img/content/thumbnails/egg.jpg
     alt: banner
 order_number: 1
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/thumbnails/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 

@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Rice Bikes Repair App"
+title:  "Rice Bikes Repair & Inventory App"
 date:   2024-5-1 10:00:40
-description: "Rice Bikes repair app summary."
+description: "Throughout the summer of 2024, I worked with two other students to further develop and document the Rice Bikes repair and inventory management app. In working on this project, I used Angular, Express, MongoDB, and Node.js and significantly improved my web development skills."
 image: 
-    src: /assets/img/content/post-example/Banner.jpg
+    src: /assets/img/content/thumbnails/rbapp.png
     alt: banner
-order_number: 1
+order_number: 3
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/thumbnails/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 

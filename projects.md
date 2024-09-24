@@ -4,4 +4,4 @@ title: Projects
 slug: /projects
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
+These are some of the projects I've worked on, both inside and outside of my classes at Rice!

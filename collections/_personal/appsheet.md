@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Rice Bikes Appsheets"
+title:  "Rice Bikes Appsheet"
 date:   2024-5-1 10:00:40
-description: "Rice Bikes appsheets summary."
+description: "To help facilitate Rice Bikes' repairs of residential college bike fleets for Rice's annual campus-wide bike race, I created a repair and inventory management app using Google Appsheet. This app allowed mechanics to create safety inspections, document associated repairs/parts, and record notes. It also automatically calculated college repair totals and created invoices for final payment."
 image: 
-    src: /assets/img/content/post-example/Banner.jpg
+    src: /assets/img/content/thumbnails/appsheet.png
     alt: banner
-order_number: 5
+order_number: 6
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/thumbnails/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 
