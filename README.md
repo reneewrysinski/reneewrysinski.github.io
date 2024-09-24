@@ -9,6 +9,17 @@ Inspired by [dangrover.com](http://dangrover.com/). Current theme used at [eliot
 
 ![](/screenshot.png)
 
+
+## Table of contents
+1. [Installation](#installation)
+2. Website sections
+    1. [Header](#header)
+    2. [Footer](#footer)
+    3. [Home page](#home-page)
+    4. [Blog page](#blog-page)
+5. [Development instructions](#development)
+
+
 ### Installation
 
 
@@ -73,27 +84,31 @@ Open the `_config.yml` file and add the following:
 footer:
   show_powered_by: true
   contact:
-    - name: Email
+    - type: email
+      name: Email
       value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
+    - type: wechat
       value: YourWeChatUsername
       link: "#"
   follow:
-    - name: Twitter
+    - type: twitter
+      name: Twitter
       link: http://twitter.com/YourTwitterUsername
       username: "@YourTwitterUsername"
-    - name: Facebook
+    - type: facebook
+      name: Facebook
       link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
+    - type: linkedin
+      name: LinkedIn
       link: http://linkedin.com/in/YourLinkedInUsername
-    - name: GitHub
+    - type: github
+      name: GitHub
       link: http://github.com/YourGitHubUsername
-    - name: Dribbble
+    - type: dribbble
+      name: Dribbble
       link: https://dribbble.com/YourDribbbleUsername
-    - name: Weibo
-      link: http://weibo.com/u/YourWeiboUsername
-    - name: RSS
+    - type: rss
+      name: RSS
       link: /feed.xml
 ```
 Re-run `jekyll serve` to see the footer updated.
