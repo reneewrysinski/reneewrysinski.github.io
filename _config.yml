@@ -41,6 +41,12 @@ footer:
     - type: github
       name: GitHub
       link: http://github.com/reneewrysinski
+    - type: youtube
+      name: YouTube
+      link: https://www.youtube.com/@renee.wrysinski
+    - type: instagram
+      name: Instagram
+      link: https://www.instagram.com/reneewrysinski/
     # - name: Dribbble
     #   link: https://dribbble.com/YourDribbbleUsername
     # - name: RSS
