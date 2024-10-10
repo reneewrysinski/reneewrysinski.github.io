@@ -2,7 +2,7 @@
 layout: post
 title:  Circuit Showdown
 date:   2024-5-1 10:00:40
-description: "During the summer of 2024, I participated in Mouser Electronics' electrical engineering competition, Circuit Showdown. This series will be released on Mouser's YouTube in October 2024, and you can check out the trailer <a href='https://youtu.be/LzqyWOH7zTU?si=k8oKHzibGw0p7pA2' target='_blank'>here</a>!"
+description: "During the summer of 2024, I participated in Mouser Electronics' electrical engineering competition, Circuit Showdown. This series is currently being released on Mouser's YouTube channel, and you can check it out <a href='https://www.mouser.com/circuit-showdown/' target='_blank'>here</a>!"
 image: 
     src: /assets/img/content/thumbnails/showdown.jpg
     alt: banner
