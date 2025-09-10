@@ -6,7 +6,7 @@ description: "In Spring 2023, I took ENGI 210: Prototyping and Fabrication. In t
 image: 
     src: /assets/img/content/thumbnails/engi210.jpg
     alt: banner
-order_number: 2
+order_number: 6
 ---
 
 <img src="{{ "/assets/img/content/thumbnails/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>

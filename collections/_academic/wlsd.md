@@ -6,7 +6,7 @@ description: "In the fall of 2022, I worked on a project team to create a water 
 image: 
     src: /assets/img/content/thumbnails/wlsd.jpg
     alt: banner
-order_number: 3
+order_number: 7
 ---
 
 <img src="{{ "/assets/img/content/thumbnails/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>

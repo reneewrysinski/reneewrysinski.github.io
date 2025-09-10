@@ -6,7 +6,7 @@ description: "Throughout the 2023-2024 academic year, I worked to create a wirel
 image: 
     src: /assets/img/content/thumbnails/egg.jpg
     alt: banner
-order_number: 1
+order_number: 3
 ---
 
 <img src="{{ "/assets/img/content/thumbnails/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
