@@ -1,15 +1,15 @@
 .work-item {
-  clear: both;
-  overflow: hidden;
+  display: flex;              /* use flexbox instead of floats */
+  align-items: center;        /* vertical centering */
   padding-bottom: 3em;
 }
 
 .work-bubble {
-  float: left;
-  margin-right: 20px;
+  margin-right: 20px;         /* keeps spacing to the text */
   width: 100px;
   height: 100px;
   object-fit: cover;
   border-radius: 50%;
   border: #a4a4a4 2px solid;
+  flex-shrink: 0;             /* prevents the image from shrinking */
 }
